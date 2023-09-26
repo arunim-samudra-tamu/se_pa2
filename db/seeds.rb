@@ -1,5 +1,9 @@
 # Seed the RottenPotatoes DB with some movies.
 more_movies = [
+  {:title => 'Forest Gump', :rating => 'PG-13',
+   :release_date => '6-Jul-1994'},
+  {:title => 'Pulp Fiction', :rating => 'R',
+   :release_date => '14-Oct-1994'},
   {:title => 'My Neighbor Totoro', :rating => 'G',
    :release_date => '16-Apr-1988'},
   {:title => 'Green Book', :rating => 'PG-13',
